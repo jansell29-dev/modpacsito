@@ -1,0 +1,13 @@
+name = "modpacsito"
+author = "jansell29"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "21c3ff2ab68b73cb802e4467677f3b53f092e71b0e69b6a9918576a732b19f49"
+
+[versions]
+forge = "47.4.20"
+minecraft = "1.20.1"
